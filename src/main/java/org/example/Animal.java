@@ -8,8 +8,9 @@ public class Animal {
     Animal pareja;
 
 
-
-    public Animal() {
+    public Animal(String nombre, double peso) {
+        this.nombre = nombre;
+        this.peso = peso;
     }
 
     void encontrarPareja(Animal pareja){
