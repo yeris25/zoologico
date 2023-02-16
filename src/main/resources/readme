@@ -1,0 +1,21 @@
+1.Cuantas clases tiene el proyecto?
+R/ 3 clases
+2.En cual clase se define el programa principal?
+R/ La clase principal es Zoologico.java
+3.Cuántos objetos de la clase Animal se crean en la clase
+principal?
+R/ En total sol 3 atributos papa=Caballo, mama=Caballo, Hijo=Cebrallo
+5.Cuántos y cuáles son los atributos de la clase Animal?
+R/4.Nombre,genero,peso,pareja
+6.Cuáles atributos de la clase Animal no son primitivos?
+R/String,nombre,genero
+7.Qué pasa si eliminamos la línea 17 de la clase Zoologico?
+R/Al imprimir la clase queda null
+8.Cuantos metodos tiene la clase familia?
+R/2.TenerHijo y ImprimirFamilia
+9.Cuántos parámetros tiene el método tenerHijo() de la clase
+  Familia?
+R/2.Parametro nombre.
+10.3. papa, mama e hija.
+11.Qué tipo de retorno tiene el método tenerHijo()?
+R/ No retorna nada porque tiene la variable voild.
